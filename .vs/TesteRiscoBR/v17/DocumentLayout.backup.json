@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ideia\\source\\repos\\TesteRiscoBR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{331FB953-69FA-4B70-8896-D78071D6DE90}|TesteRiscoBR\\TesteRiscoBR.csproj|c:\\users\\ideia\\source\\repos\\testeriscobr\\testeriscobr\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331FB953-69FA-4B70-8896-D78071D6DE90}|TesteRiscoBR\\TesteRiscoBR.csproj|solutionrelative:testeriscobr\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{331FB953-69FA-4B70-8896-D78071D6DE90}|TesteRiscoBR\\TesteRiscoBR.csproj|c:\\users\\ideia\\source\\repos\\testeriscobr\\testeriscobr\\testeriscobr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{331FB953-69FA-4B70-8896-D78071D6DE90}|TesteRiscoBR\\TesteRiscoBR.csproj|solutionrelative:testeriscobr\\testeriscobr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331FB953-69FA-4B70-8896-D78071D6DE90}|TesteRiscoBR\\TesteRiscoBR.csproj|c:\\users\\ideia\\source\\repos\\testeriscobr\\testeriscobr\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331FB953-69FA-4B70-8896-D78071D6DE90}|TesteRiscoBR\\TesteRiscoBR.csproj|solutionrelative:testeriscobr\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{331FB953-69FA-4B70-8896-D78071D6DE90}|TesteRiscoBR\\TesteRiscoBR.csproj|c:\\users\\ideia\\source\\repos\\testeriscobr\\testeriscobr\\files\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 261,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,33 +32,33 @@
               "RelativeDocumentMoniker": "TesteRiscoBR\\files\\config.json",
               "ToolTip": "C:\\Users\\ideia\\source\\repos\\TesteRiscoBR\\TesteRiscoBR\\files\\config.json",
               "RelativeToolTip": "TesteRiscoBR\\files\\config.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-07T04:47:20.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TesteRiscoBR.csproj",
               "DocumentMoniker": "C:\\Users\\ideia\\source\\repos\\TesteRiscoBR\\TesteRiscoBR\\TesteRiscoBR.csproj",
               "RelativeDocumentMoniker": "TesteRiscoBR\\TesteRiscoBR.csproj",
               "ToolTip": "C:\\Users\\ideia\\source\\repos\\TesteRiscoBR\\TesteRiscoBR\\TesteRiscoBR.csproj",
               "RelativeToolTip": "TesteRiscoBR\\TesteRiscoBR.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-07T02:22:27.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Trade.cs",
               "DocumentMoniker": "C:\\Users\\ideia\\source\\repos\\TesteRiscoBR\\TesteRiscoBR\\Trade.cs",
               "RelativeDocumentMoniker": "TesteRiscoBR\\Trade.cs",
-              "ToolTip": "C:\\Users\\ideia\\source\\repos\\TesteRiscoBR\\TesteRiscoBR\\Trade.cs*",
-              "RelativeToolTip": "TesteRiscoBR\\Trade.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ideia\\source\\repos\\TesteRiscoBR\\TesteRiscoBR\\Trade.cs",
+              "RelativeToolTip": "TesteRiscoBR\\Trade.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T21:36:05.469Z",
               "EditorCaption": ""
