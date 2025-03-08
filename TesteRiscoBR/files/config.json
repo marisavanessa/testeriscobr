@@ -1,0 +1,20 @@
+[
+	{
+		"dayPaymentDelayed": 30,
+		"higherValue": 0,
+		"sectorCustomer": "",
+		"result": "EXPIRED"
+	},
+	{
+		"dayPaymentDelayed": 0,
+		"higherValue": 1000000,
+		"sectorCustomer": "Private",
+		"result": "HIGHRISK"
+	},
+	{
+		"dayPaymentDelayed": 0,
+		"higherValue": 1000000,
+		"sectorCustomer": "Public",
+		"result": "MEDIUMRISK"
+	}
+]

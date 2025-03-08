@@ -1,0 +1,14 @@
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\bin\Debug\net8.0\TesteRiscoBR.exe
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\bin\Debug\net8.0\TesteRiscoBR.deps.json
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\bin\Debug\net8.0\TesteRiscoBR.runtimeconfig.json
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\bin\Debug\net8.0\TesteRiscoBR.dll
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\bin\Debug\net8.0\TesteRiscoBR.pdb
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\obj\Debug\net8.0\TesteRiscoBR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\obj\Debug\net8.0\TesteRiscoBR.AssemblyInfoInputs.cache
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\obj\Debug\net8.0\TesteRiscoBR.AssemblyInfo.cs
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\obj\Debug\net8.0\TesteRiscoBR.csproj.CoreCompileInputs.cache
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\obj\Debug\net8.0\TesteRiscoBR.dll
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\obj\Debug\net8.0\refint\TesteRiscoBR.dll
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\obj\Debug\net8.0\TesteRiscoBR.pdb
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\obj\Debug\net8.0\TesteRiscoBR.genruntimeconfig.cache
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\obj\Debug\net8.0\ref\TesteRiscoBR.dll
