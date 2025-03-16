@@ -12,3 +12,4 @@ C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\obj\Debug\net8.0\refint\Te
 C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\obj\Debug\net8.0\TesteRiscoBR.pdb
 C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\obj\Debug\net8.0\TesteRiscoBR.genruntimeconfig.cache
 C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\obj\Debug\net8.0\ref\TesteRiscoBR.dll
+C:\Users\ideia\source\repos\TesteRiscoBR\TesteRiscoBR\obj\Debug\net8.0\TesteRiscoBR.sourcelink.json

@@ -1,15 +1,14 @@
 ﻿using System.Collections;
 using System.Globalization;
-using System.Text.Json;
 
 namespace TesteRiscoBR
 {
     internal class Trade
     {
-
+        
         public class CategoryTrade
         {
-            public double? dayPaymentDelayed { get; set; }
+            public long? dayPaymentDelayed { get; set; }
             public double? higherValue { get; set; }
             public string? sectorCustomer { get; set; }
             public string? result { get; set; }
@@ -58,7 +57,7 @@ namespace TesteRiscoBR
             DateTime parsedDateValue;       //Only for validation input
             while (i < n)
             {
-                string inputLine = Console.ReadLine();
+                string inputLine = Console.ReadLine().Trim();
 
                 //Validations
                 //InputLine.VALUE validates its type for integer
@@ -85,26 +84,8 @@ namespace TesteRiscoBR
             }
 
             //2: Preparing files (out detCategory)
-
-            //Preparing to read file in attachment
-            string fileName = "../../../files/config.json";
-            using FileStream openStream = File.OpenRead(fileName);
-
-            var categoryTrade =
-                JsonSerializer.Deserialize<IEnumerable<CategoryTrade>>(openStream);
             List<CategoryTrade> detCategory = new List<CategoryTrade>();
-
-            foreach (var itemCT in categoryTrade)
-            {
-                //Put these in memory
-                detCategory.Add(new CategoryTrade()
-                {
-                    dayPaymentDelayed = itemCT?.dayPaymentDelayed,
-                    higherValue = itemCT?.higherValue,
-                    sectorCustomer = itemCT?.sectorCustomer,
-                    result = itemCT?.result
-                });
-            }
+            Config.addingCategoryTrade(@detCategory);
 
             //3: Printing results (inputTrade, detCategory, referenceDate)
 
